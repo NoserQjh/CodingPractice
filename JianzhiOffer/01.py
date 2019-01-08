@@ -19,8 +19,7 @@ class Solution:
 
 def main():
     solution = Solution()
-    result = solution.Find(1, [ [1, 2, 3], 
-                                [4, 5, 6]])
+    result = solution.Find(1, [[1, 2, 3], [4, 5, 6]])
     print result
 
 
