@@ -4,6 +4,7 @@
     但浪费了好长时间想o(N)的解法，最后发现好像没有？
 '''
 
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
