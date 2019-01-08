@@ -1,4 +1,9 @@
 # -*- coding:utf-8 -*-
+'''
+    这题有坑，输入可能直接是None
+'''
+
+
 class ListNode:
     def __init__(self, x):
         self.val = x
