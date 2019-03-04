@@ -2,8 +2,8 @@
 @Author: NoserQJH
 @LastEditors: NoserQJH
 @Date: 2019-01-25 18:35:11
-@LastEditTime: 2019-01-25 21:25:03
-@Description:Runtime: 88 ms, faster than 37.81% of Python online submissions for Longest Substring Without Repeating Characters.
+@LastEditTime: 2019-01-26 18:18:31
+@Description:Runtime: 88 ms, faster than 37.81% of Python online submissions
 '''
 
 
